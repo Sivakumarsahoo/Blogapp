@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className='container max-w-lg w-[95%] mx-auto flex justify-center items-center min-h-screen'>
       <div>
-        <h1 className='text-center text-2xl'>Blog App</h1>
+        <h1 className='text-center text-2xl'>Welcome Blog App </h1>
         <div className='mt-4 flex space-x-4 text-white'>
           <Link
             to='/login'
